@@ -26,8 +26,6 @@ I used python to program a majority of the software, but I used the mysql connec
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - I want to allow users to filter their searches more, which is easy to do, but just takes a lot of time.
 - I want to try and build a similar system to work in JavaScript, allowing me easier access to setting it up on a website
 - I need to research how to better keep user data safe while saved in a database.  I have already begun researching encryption for user passwords.
